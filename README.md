@@ -16,16 +16,6 @@
   <li>Confusion matrix, accuracy scores, and classification reports for evaluation.</li>
 </ul>
 
-<h2>Installation</h2>
-<p>Clone the repository and install the required libraries:</p>
-
-<pre>
-<code>git clone https://github.com/Talha-Nazir13/your-repository.git
-cd your-repository
-pip install -r requirements.txt
-</code>
-</pre>
-
 <h2>Data</h2>
 <p>The data used in this project includes:</p>
 <ul>
